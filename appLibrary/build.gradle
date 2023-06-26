@@ -4,7 +4,7 @@ plugins {
     id 'maven-publish'
 }
 
-group = 'com.github.jitpack'
+group = 'com.github.siddhant5exceptions'
 version = '1.1'
 android {
     namespace 'com.example.applibrary'
@@ -48,7 +48,7 @@ afterEvaluate {
             // Creates a Maven publication called "release".
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.jitpack'
+                groupId = 'com.github.siddhant5exceptions'
                 artifactId = 'android-applibrary'
                 version = '1.1'
 
