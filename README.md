@@ -1,6 +1,6 @@
 # app-library
 
-[![Release](https://jitpack.io/v/jitpack/android-applibrary.svg)](https://jitpack.io/#jitpack/android-applibrary)
+[![Release](https://jitpack.io/v/siddhant5exceptions/android-applibrary.svg)](https://jitpack.io/#siddhant5exceptions/android-applibrary)
 
 Example Android library project that works with jitpack.io.
 
@@ -8,7 +8,7 @@ See this [Tutorial](https://medium.com/@ome450901/publish-an-android-library-by-
 
 For more details check out the [documentation](https://github.com/jitpack/jitpack.io/blob/master/ANDROID.md)
 
-https://jitpack.io/#jitpack/android-applibrary
+https://jitpack.io/#siddhant5exceptions/android-applibrary
 
 Add it to your build.gradle with:
 ```gradle
@@ -22,7 +22,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.jitpack:android-applibrary:{latest version}'
+    compile 'com.github.siddhant5exceptions:android-applibrary:{latest version}'
 }
 ```
 
