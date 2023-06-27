@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.github.siddhant5exceptions'
-version = '0.1'
+version = '1.1'
 android {
     namespace 'com.example.applibrary'
     compileSdk 32
@@ -48,7 +48,7 @@ dependencies {
             release(MavenPublication) {
                 groupId = 'com.github.siddhant5exceptions'
                 artifactId = 'android-applibrary'
-                version = '0.1'
+                version = '1.1'
 //                from components.java
             }
         }
